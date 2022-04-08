@@ -12,7 +12,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-server-express": "^2.21.2",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "graphql": "^15.8.0",
+    "if-env": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15"
+  },
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.2.0"
   }
 }
